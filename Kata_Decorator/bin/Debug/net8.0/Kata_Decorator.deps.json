@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kata_Decorator/1.0.0": {
+        "runtime": {
+          "Kata_Decorator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata_Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

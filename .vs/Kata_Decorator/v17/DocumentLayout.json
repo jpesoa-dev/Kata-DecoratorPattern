@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\watermarkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\watermarkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\footerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\footerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\headerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\headerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\reportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\reportdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\basicreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\basicreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|c:\\users\\jpesoa\\source\\repos\\kata_decorator\\kata_decorator\\7_reportgeneration\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B12E9-5B81-44DB-9A14-F62D1901EDC5}|Kata_Decorator\\Kata_Decorator.csproj|solutionrelative:kata_decorator\\7_reportgeneration\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 823,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\Program.cs",
+              "RelativeToolTip": "Kata_Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:08:34.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\Report.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\Report.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\Report.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:05:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicReport.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\BasicReport.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\BasicReport.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\BasicReport.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\BasicReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:05:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\ReportDecorator.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\ReportDecorator.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\ReportDecorator.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\ReportDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:06:11.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeaderDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\HeaderDecorator.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\HeaderDecorator.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\HeaderDecorator.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\HeaderDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:06:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FooterDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\FooterDecorator.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\FooterDecorator.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\FooterDecorator.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\FooterDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:07:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatermarkDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\WatermarkDecorator.cs",
+              "RelativeDocumentMoniker": "Kata_Decorator\\7_ReportGeneration\\WatermarkDecorator.cs",
+              "ToolTip": "C:\\Users\\jpesoa\\source\\repos\\Kata_Decorator\\Kata_Decorator\\7_ReportGeneration\\WatermarkDecorator.cs",
+              "RelativeToolTip": "Kata_Decorator\\7_ReportGeneration\\WatermarkDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:07:56.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
