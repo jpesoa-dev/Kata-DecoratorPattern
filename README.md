@@ -1,0 +1,2 @@
+# Kata-DecoratorPattern
+Kata-DecoratorPattern
